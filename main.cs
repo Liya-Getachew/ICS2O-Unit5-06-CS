@@ -29,8 +29,8 @@ class Program
 
         while (counter < value2)
         {
-          sum += value1;
-          counter++;
+            sum += value1;
+            counter++;
         }
 
         Console.WriteLine(value1 + " x " + value2 + " = " + sum);
